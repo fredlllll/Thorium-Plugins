@@ -3,9 +3,9 @@ using System.IO;
 using System.Reflection;
 using Newtonsoft.Json.Linq;
 using NLog;
-using Thorium_IO;
+using Thorium.IO;
 
-namespace Thorium_Plugins
+namespace Thorium.Plugins
 {
     public static class PluginLoader
     {
